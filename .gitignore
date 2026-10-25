@@ -218,3 +218,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ambiente virtual Python
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos coletados localmente
+data/raw/
+
+# Variáveis de ambiente e credenciais
+.env
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
