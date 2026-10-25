@@ -1,0 +1,11 @@
+﻿coluna,tipo,valores_validos,valores_nulos,valores_unicos
+mes,datetime64[us],72,0,72
+selic,float64,72,0,23
+cdi_anual_equivalente,float64,72,0,50
+tr,float64,72,0,50
+ipca,float64,72,0,57
+usd_brl,float64,72,0,72
+eur_brl,float64,72,0,72
+gbp_brl,float64,72,0,72
+jpy_brl,float64,72,0,72
+ars_brl,float64,72,0,72
